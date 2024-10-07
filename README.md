@@ -2,7 +2,7 @@
 
 
 ## 💻 Aprendendo:
-[![My Skills](https://skillicons.dev/icons?i=cs,py,figma,aws)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,py,aws,figma)](https://skillicons.dev) 
 
 
 
