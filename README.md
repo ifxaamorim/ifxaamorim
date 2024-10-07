@@ -1,7 +1,7 @@
-## ⛳ - Coding beats, crafting grooves
+## ⛳ Coding beats, crafting grooves
 
 
-## 💻 Aprendendo:
+## 💻 Aprendendo
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,py,aws,figma)](https://skillicons.dev) 
 
 
