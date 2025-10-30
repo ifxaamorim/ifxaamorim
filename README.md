@@ -2,6 +2,6 @@
 
 
 ## 💻 Minhas skills
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=py,numpy,pandas,gcp,huggingface&titles=true)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=py,pandas,gcp,huggingface&titles=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
