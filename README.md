@@ -1,4 +1,4 @@
-## ⛳ Coding beats, crafting grooves
+## ⛳ Data-driven by curiosity
 
 
 ## 💻 Minhas skills
